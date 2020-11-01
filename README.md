@@ -1,7 +1,5 @@
 ### Here is what I'm working on! 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... Youtube
 - 🌱 I’m currently learning ... React Native and Azure
 - 💬 Ask me about ... Anything
