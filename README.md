@@ -11,6 +11,9 @@
 - 😄 Pronouns: ... She/Her
 - ⚡ Fun fact: ... I speak 4 languages ( English, Spanish, Romanian, Russian)
 
+
+### Talk with me, I am kinda awesome:
+
 [<img align="left" alt="holisitc_developer" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="holisitc_developer | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
