@@ -1,3 +1,5 @@
+![image](https://github.com/arsentieva/arentieva/master/giphy.mp4)
+
 ### Here is what I'm working on! 👋
 
 - 🔭 I’m currently working on ... Youtube
