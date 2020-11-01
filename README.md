@@ -46,6 +46,13 @@
 
 ---
 
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://holisticdeveloper.medium.com/)
+
 
 [![Anna's github stats](https://github-readme-stats.vercel.app/api?username=arsentieva)](https://github.com/arsentieva/github-readme-stats)
 
