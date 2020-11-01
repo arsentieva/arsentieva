@@ -48,6 +48,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Visual Studio Code Extensions for Full Stack Engineers | Best vscode extensions 2020](https://www.youtube.com/watch?v=6FLg-El-sQE)
+- [October Tech Talk Live Stream | Getting a job in tech during current events](https://www.youtube.com/watch?v=H4YpzVHbftY)
+- [Coding projects and what I learned during my 6 month coding Bootcamp?](https://www.youtube.com/watch?v=wCcJ06jCFtw)
+- [Apply to 100 Software engineering jobs (social experiment) -Intro](https://www.youtube.com/watch?v=TAor6_0R3Qw)
+- [Cracking coding interview month-long calendar template | Coding interview Prep Strategy](https://www.youtube.com/watch?v=JpXw23zgh54)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
