@@ -7,3 +7,5 @@
 - 😄 Pronouns: ... She/Her
 - ⚡ Fun fact: ... I speak 4 languages ( English, Spanish, Romanian, Russian)
 
+
+[![Anna's github stats](https://github-readme-stats.vercel.app/api?username=arsentieva)](https://github.com/arsentieva/github-readme-stats)
