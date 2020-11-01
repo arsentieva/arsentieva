@@ -1,7 +1,7 @@
-### Hello World, I'm Anna -aka [Holistic Developer][youtube] 👋
+### Hello World, I'm Anna - aka [Holistic Developer][youtube] 👋
 
 
-## I'm a Wife, Mother, Developer,Creator, and Mentor!!
+## I'm a Wife, Mother, Developer, Creator, and Mentor!!
 
 - 🔭 I’m currently working on my first book.
 - 🌱 I’m currently learning React Native and Azure
@@ -49,3 +49,4 @@
 [youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
 [instagram]: https://www.instagram.com/holistic_developer/
 [linkedin]: https://linkedin.com/in/annaarsentieva
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
