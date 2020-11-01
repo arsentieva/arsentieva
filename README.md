@@ -63,10 +63,12 @@
 
 </details>
 
-[![Anna's github stats](https://github-readme-stats.vercel.app/api?username=arsentieva)](https://github.com/arsentieva/github-readme-stats)
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva)](https://github.com/arsentieva/github-readme-stats)
+<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva" />
 
+</details>
 
 [website]: https://holistic-developer.com/
 [youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
