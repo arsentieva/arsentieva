@@ -9,3 +9,5 @@
 
 
 [![Anna's github stats](https://github-readme-stats.vercel.app/api?username=arsentieva)](https://github.com/arsentieva/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva)](https://github.com/arsentieva/github-readme-stats)
