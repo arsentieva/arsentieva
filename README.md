@@ -62,6 +62,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is a coding Bootcamp worth it for experienced programmers?](https://dev.to/holistic_developer/is-a-coding-bootcamp-worth-it-for-experienced-programmers-2jjj)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://holisticdeveloper.medium.com/)
