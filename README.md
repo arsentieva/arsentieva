@@ -9,9 +9,8 @@
 - 🌱 I’m currently learning React Native and Azure
 - 👯 I’m looking to collaborate with other content creators
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [youtube][Instagram]
-- 😄 Pronouns: ... She/Her
-- ⚡ Fun fact: ... I speak 4 languages ( English, Spanish, Romanian, Russian)
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I speak 4 languages ( English, Spanish, Romanian, Russian)
 
 
 ### Talk with me, I am kinda awesome:
