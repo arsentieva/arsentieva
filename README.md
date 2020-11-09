@@ -1,4 +1,4 @@
-### Hello World, I'm Anna - aka [Holistic Developer][youtube] 👋
+### Hello World, I'm Anna  👋
 
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
@@ -42,33 +42,6 @@
 
 <br />
 <br />
-
----
-
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [How to create an Impressive GitHub Profile README | Optimize your GitHub](https://www.youtube.com/watch?v=7K8JctEM-Uk)
-- [Visual Studio Code Extensions for Full Stack Engineers | Best vscode extensions 2020](https://www.youtube.com/watch?v=6FLg-El-sQE)
-- [October Tech Talk Live Stream | Getting a job in tech during current events](https://www.youtube.com/watch?v=H4YpzVHbftY)
-- [Coding projects and what I learned during my 6 month coding Bootcamp?](https://www.youtube.com/watch?v=wCcJ06jCFtw)
-- [Apply to 100 Software engineering jobs (social experiment) -Intro](https://www.youtube.com/watch?v=TAor6_0R3Qw)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...][youtube]
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Is a coding Bootcamp worth it for experienced programmers?](https://dev.to/holistic_developer/is-a-coding-bootcamp-worth-it-for-experienced-programmers-2jjj)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://holisticdeveloper.medium.com/)
-
-
 ---
 
 <details>
