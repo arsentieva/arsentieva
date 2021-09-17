@@ -51,8 +51,7 @@
 
 </details>
 
-[website]: https://holistic-developer.com/
+[website]: https://liquidsmok.hopto.org/
 [youtube]: https://www.youtube.com/channel/UCIoke0rOK8AFqTZJ4W-QqDg
-[instagram]: https://www.instagram.com/holistic_developer/
 [linkedin]: https://linkedin.com/in/alvaro-esteban-herrera45676980
-[portfolio]: https://arsentieva.github.io/profile/
+[portfolio]: https://alvaroestebanherrera.github.io/
