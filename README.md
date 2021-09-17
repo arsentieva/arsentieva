@@ -52,7 +52,7 @@
 </details>
 
 [website]: https://holistic-developer.com/
-[youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
+[youtube]: https://www.youtube.com/channel/UCIoke0rOK8AFqTZJ4W-QqDg
 [instagram]: https://www.instagram.com/holistic_developer/
 [linkedin]: https://linkedin.com/in/alvaro-esteban-herrera45676980
 [portfolio]: https://arsentieva.github.io/profile/
