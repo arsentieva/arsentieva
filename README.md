@@ -18,7 +18,7 @@
 
 ### Badges:
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=alvaroestebanherrera.alvaroestebanherrera&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=alvaroestebanherrera.alvaroestebanherrera&left_color=green&right_color=red)
 
 ### Languages and Tools:
 
