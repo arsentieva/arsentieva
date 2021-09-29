@@ -37,7 +37,7 @@
 <br />
 <br />
 
-### Visits:
+### Stats:
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=alvaroestebanherrera.alvaroestebanherrera&left_color=green&right_color=red)
 
