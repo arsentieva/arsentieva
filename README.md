@@ -13,8 +13,6 @@
 - ⚡ Fun fact: I speak 4 languages ( English, Spanish, Romanian, Russian)
 
 
-<img align="right" https://octocat-generator-assets.githubusercontent.com/my-octocat-1633130842913.png width="500" height="320" />
-
 ### Talk with me, I am kinda awesome:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
