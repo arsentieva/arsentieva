@@ -40,6 +40,9 @@
 ### Stats:
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=alvaroestebanherrera.alvaroestebanherrera&left_color=green&right_color=red)
+[![wakatime](https://wakatime.com/badge/user/d70cd538-e361-40fa-9945-20dbc9e0c077.svg)](https://wakatime.com/@d70cd538-e361-40fa-9945-20dbc9e0c077)
+[![twitter](https://img.shields.io/twitter/follow/wakatime?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/esteban_records)
+[![github](https://img.shields.io/github/followers/alvaroestebanherrera?logo=github&style=plastic)](https://github.com/alvaroestebanherrera?tab=followers)
 
 <details>
   <summary>:zap: GitHub Stats</summary>
