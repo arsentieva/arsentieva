@@ -1,6 +1,6 @@
-### Hello World, I'm Alvaro Esteban  👋
+### Hello World, I'm Esteban 👋
 
- <img align="right" alt="GIF" src="https://github.com/alvaroestebanherrera/alvaroestebanherrera/blob/main/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/estebanways/estebanways/blob/main/code.gif?raw=true" width="500" height="320" />
 
 ## I'm a Software Developer!!
 - ✍ You can find my projects here [portfolio]
@@ -39,25 +39,25 @@
 
 ### Stats:
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=alvaroestebanherrera.alvaroestebanherrera&left_color=green&right_color=red)
-[![github](https://img.shields.io/github/followers/alvaroestebanherrera?logo=github&style=plastic)](https://github.com/alvaroestebanherrera?tab=followers)
+![visitors](https://visitor-badge.glitch.me w/badge?page_id=estebanways&left_color=green&right_color=red)
+[![github](https://img.shields.io/github/followers/estebanways?logo=github&style=plastic)](https://github.com/estebanways?tab=followers)
 [![wakatime](https://wakatime.com/badge/user/d70cd538-e361-40fa-9945-20dbc9e0c077.svg)](https://wakatime.com/@d70cd538-e361-40fa-9945-20dbc9e0c077)
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Alvaro Esteban's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alvaroestebanherrera&show_icons=true&hide_border=true" />
+  <img align="left" alt="Esteban's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=estebanways&show_icons=true&hide_border=true" />
 
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Alvaro Esteban's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroestebanherrera" />
+<img align="left" alt="Esteban's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estebanways" />
 
 </details>
 
 [website]: https://liquidsmok.hopto.org/
 [youtube]: https://www.youtube.com/channel/UCIoke0rOK8AFqTZJ4W-QqDg
 [linkedin]: https://linkedin.com/in/alvaro-esteban-herrera45676980
-[portfolio]: https://alvaroestebanherrera.github.io/
+[portfolio]: https://estebanways.github.io/
