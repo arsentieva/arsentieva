@@ -39,7 +39,7 @@
 
 ### Stats:
 
-![visitors](https://visitor-badge.glitch.me w/badge?page_id=estebanways&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me w/badge?page_id=estebanways.estebanways&left_color=green&right_color=red)
 [![github](https://img.shields.io/github/followers/estebanways?logo=github&style=plastic)](https://github.com/estebanways?tab=followers)
 [![wakatime](https://wakatime.com/badge/user/d70cd538-e361-40fa-9945-20dbc9e0c077.svg)](https://wakatime.com/@d70cd538-e361-40fa-9945-20dbc9e0c077)
 
