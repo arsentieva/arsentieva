@@ -1,7 +1,6 @@
 ### Hello World, I'm Esteban 👋
 
- <a href="https://app.daily.dev/Estebanh"><img src="https://api.daily.dev/devcards/f3ab9a413d6c4d36bc48d34ef9995198.png?r=88x" width="200" alt="Esteban Herrera's Dev Card"/></a>
- <!--<img align="right" alt="GIF" src="https://github.com/estebanways/estebanways/blob/main/code.gif?raw=true" width="500" height="320" />-->
+ <img align="right" alt="GIF" src="https://github.com/estebanways/estebanways/blob/main/code.gif?raw=true" width="500" height="320" />
 
 ## I'm a Software Developer!!
 - ✍ You can find my projects here [portfolio]
@@ -58,6 +57,8 @@
 <img align="left" alt="Esteban's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estebanways" />
 
 </details>
+
+ <a href="https://app.daily.dev/Estebanh"><img src="https://api.daily.dev/devcards/f3ab9a413d6c4d36bc48d34ef9995198.png?r=88x" width="400" alt="Esteban Herrera's Dev Card"/></a>
 
 [website]: https://liquidsmok.hopto.org/
 [youtube]: https://www.youtube.com/channel/UCIoke0rOK8AFqTZJ4W-QqDg
