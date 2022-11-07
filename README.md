@@ -14,6 +14,7 @@
 ### Talk with me, I am kinda awesome:
 [<img align="left" alt="Esteban Herrera | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Esteban Herrera | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Esteban Herrera | Replit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/repl-dot-it.svg" />][replit]
 
 <br />
 
@@ -41,8 +42,8 @@
 ### Stats:
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=estebanways&left_color=green&right_color=red)
-[![github](https://img.shields.io/github/followers/estebanways?logo=github&style=plastic)](https://github.com/estebanways?tab=followers)
-[![wakatime](https://wakatime.com/badge/user/d70cd538-e361-40fa-9945-20dbc9e0c077.svg)](https://wakatime.com/@d70cd538-e361-40fa-9945-20dbc9e0c077)
+![github](https://img.shields.io/github/followers/estebanways?logo=github&style=plastic)](https://github.com/estebanways?tab=followers)
+![wakatime](https://wakatime.com/badge/user/d70cd538-e361-40fa-9945-20dbc9e0c077.svg)](https://wakatime.com/@d70cd538-e361-40fa-9945-20dbc9e0c077)
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -63,5 +64,6 @@
 [website]: https://liquidsmok.hopto.org/
 [youtube]: https://www.youtube.com/channel/UCIoke0rOK8AFqTZJ4W-QqDg
 [linkedin]: https://linkedin.com/in/alvaro-esteban-herrera45676980
+[replit]: https://replit.com/@alvaroestebanhe
 [portfolio]: https://estebanways.github.io/
 [profile]: https://github.com/estebanways
