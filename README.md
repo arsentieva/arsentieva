@@ -67,4 +67,4 @@
 [replit]: https://replit.com/@alvaroestebanhe
 [hackerrank]: https://www.hackerrank.com/estebanway
 [portfolio]: https://estebanways.github.io/
-[profile]:#languages-and-tools
+[profile]:#talk-with-me-i-am-kinda-awesome
