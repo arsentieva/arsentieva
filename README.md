@@ -18,6 +18,9 @@
 [<img align="left" alt="Esteban Herrera | Replit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/repl-dot-it.svg" />][replit]
 [<img align="left" alt="Esteban Herrera | Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
 
+[<img align="left" alt="Esteban Herrera | Hackerrank" width="22px" src="https://svgshare.com/i/smn.svg" />][hackerrank]
+
+
 <br />
 
 ### Languages and Tools:
