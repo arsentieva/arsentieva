@@ -1,8 +1,8 @@
-<style>
+
   svg {
     fill: blue;
   }
-</style>
+
 
 ### Hello World, I'm Esteban 👋
 
