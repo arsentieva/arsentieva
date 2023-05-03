@@ -1,3 +1,9 @@
+<style>
+  svg {
+    fill: blue;
+  }
+</style>
+
 ### Hello World, I'm Esteban 👋
 
  <img align="right" alt="GIF" src="https://github.com/estebanways/estebanways/blob/main/code.gif?raw=true" width="500" height="320" />
