@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I always think of debugging as being a detective in a crime movie.
+- ⚡ Fun fact: I always think of debugging as being a detective in a crime movie
 
 ### Talk with me, I am kinda awesome:
 
