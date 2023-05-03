@@ -9,9 +9,9 @@
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: My first second language was Italian before English
+- ⚡ Fun fact: I always think of debugging as being a detective in a crime movie.
 
-### Talk with me, I am kinda awesome:
+I always think of debugging as being a detective in a crime movie. ### Talk with me, I am kinda awesome:
 [<img align="left" alt="Esteban Herrera | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Esteban Herrera | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Esteban Herrera | Replit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/repl-dot-it.svg" />][replit]
@@ -42,7 +42,6 @@
 
 ### Stats:
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=estebanways&left_color=green&right_color=red)
 [![github](https://img.shields.io/github/followers/estebanways?logo=github&style=plastic)](https://github.com/estebanways?tab=followers)
 [![wakatime](https://wakatime.com/badge/user/d70cd538-e361-40fa-9945-20dbc9e0c077.svg)](https://wakatime.com/@d70cd538-e361-40fa-9945-20dbc9e0c077)
 
