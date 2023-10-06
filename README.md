@@ -63,7 +63,7 @@
 ### Lists:
 
 | Emoji | Category                   | Description                             |
-|  ---  | -------------------------- | --------------------------------------- |
+| :---: | -------------------------- | --------------------------------------- |
 | 📘️     | Books                      | Published books source                |
 | 🔱️     | Unmodified Forks           | Unmodified forks used in projects     |
 | 🔱️     | Forks                      | Forks made projects                   |
