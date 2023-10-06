@@ -60,6 +60,24 @@
 
  <a href="https://app.daily.dev/Estebanh"><img src="https://api.daily.dev/devcards/f3ab9a413d6c4d36bc48d34ef9995198.png?r=88x" width="400" alt="Esteban Herrera's Dev Card"/></a>
 
+### Lists:
+
+| Category                     | Description                                   |
+| -----------------------------| ----------------------------------------------|
+| 📘️ Books                     | Published books source                        |
+| 🔱️ Unmodified Forks          | Unmodified forks used in projects             |
+| 🔱️ Forks                     | Forks made projects                           |
+| 📂️ Web Portfolio             | Web portfolio                                 |
+| 💀️ Old School Front End Web  | Old school front end web exercises            |
+| 🛠️ Development Environments  | Tools for programming improvement             |
+| 🐙️ GitHub account test       | First GitHub account repo test                |
+| 📚️ Full Stack open           | Exercises. Website: [Full Stack Open](https://fullstackopen.com) |
+| 🏕️ freeCodeCamp              | Projects. Website: [freeCodeCamp](https://www.freecodecamp.org/) |
+| ⚔️ The Odin Project          | Projects submitted. Website: [The Odin Project](https://www.theodinproject.com/) |
+| ⚛️ React exercises           | Practice exercises                            |
+| 👽️ LarnU Bootcamp            | Daily challenges and projects. Bootcamp Language: Spanish. Website: [LarnU Bootcamp](https://www.larnu.com/) |
+| 🔮 Future ideas              | 1 repository                                  |
+
 [youtube]: https://www.youtube.com/channel/UCIoke0rOK8AFqTZJ4W-QqDg
 [linkedin]: https://linkedin.com/in/alvaro-esteban-herrera45676980
 [replit]: https://replit.com/@alvaroestebanhe
