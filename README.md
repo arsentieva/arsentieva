@@ -13,10 +13,10 @@
 
 ### Talk with me, I am kinda awesome:
 
-[<img align="left" alt="Esteban Herrera | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Esteban Herrera | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Esteban Herrera | Replit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/repl-dot-it.svg" />][replit]
-[<img align="left" alt="Esteban Herrera | Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
+[<img align="left" alt="Esteban Herrera | LinkedIn" width="22px" src="https://svgshare.com/i/smH.svg" />][linkedin]
+[<img align="left" alt="Esteban Herrera | YouTube" width="22px" src="https://svgshare.com/i/sm7.svg" />][youtube]
+[<img align="left" alt="Esteban Herrera | Replit" width="22px" src="https://svgshare.com/i/sk1.svg" />][replit]
+[<img align="left" alt="Esteban Herrera | Hackerrank" width="22px" src="https://svgshare.com/i/smn.svg" />][hackerrank]
 
 <br />
 
@@ -30,11 +30,9 @@
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][profile]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][profile]
 [<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][profile]
-[<img align="left" alt="flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />][profile]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][profile]
 [<img align="left" alt="postgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][profile]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][profile]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][profile]
 [<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][profile]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][profile]
 
@@ -62,9 +60,27 @@
 
  <a href="https://app.daily.dev/Estebanh"><img src="https://api.daily.dev/devcards/f3ab9a413d6c4d36bc48d34ef9995198.png?r=88x" width="400" alt="Esteban Herrera's Dev Card"/></a>
 
+### Lists:
+
+| Category                     | Description                                   |
+| -----------------------------| ----------------------------------------------|
+| 📘️ Books                     | Published books source                        |
+| 🔱️ Unmodified Forks          | Unmodified forks used in projects             |
+| 🔱️ Forks                     | Forks made projects                           |
+| 📂️ Web Portfolio             | Web portfolio                                 |
+| 💀️ Old School Front End Web  | Old school front end web exercises            |
+| 🛠️ Development Environments  | Tools for programming improvement             |
+| 🐙️ GitHub account test       | First GitHub account repo test                |
+| 📚️ Full Stack open           | Exercises. Website: [Full Stack Open](https://fullstackopen.com) |
+| 🏕️ freeCodeCamp              | Projects. Website: [freeCodeCamp](https://www.freecodecamp.org/) |
+| ⚔️ The Odin Project          | Projects submitted. Website: [The Odin Project](https://www.theodinproject.com/) |
+| ⚛️ React exercises           | Practice exercises                            |
+| 👽️ LarnU Bootcamp            | Daily challenges and projects. Bootcamp Language: Spanish. Website: [LarnU Bootcamp](https://www.larnu.com/) |
+| 🔮 Future ideas              | 1 repository                                  |
+
 [youtube]: https://www.youtube.com/channel/UCIoke0rOK8AFqTZJ4W-QqDg
 [linkedin]: https://linkedin.com/in/alvaro-esteban-herrera45676980
 [replit]: https://replit.com/@alvaroestebanhe
 [hackerrank]: https://www.hackerrank.com/stv_herrera
-[portfolio]: https://estebanways.github.io/
+[portfolio]: https://github.com/estebanways
 [profile]:#talk-with-me-i-am-kinda-awesome
